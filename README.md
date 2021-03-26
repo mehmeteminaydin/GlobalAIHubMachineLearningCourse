@@ -1,12 +1,11 @@
-# GAIH Student Repo Example
+# GAIH Mehmet Emin Aydın's Repository
 ![](img/newlogo.png)
 
 **Course Date:** 26.03.2021  
 **Name:** Mehmet Emin  
 **Surname:** Aydın  
 **Email:** meaydin.ceng@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+  
 
 ## Project Name
 Description of your project.
