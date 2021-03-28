@@ -7,7 +7,7 @@
 **Email:** mehmetemin200064@gmail.com  
   
 ### Project Description
-Something
+This repository includes homeworks and final project for the course of Introduction to Machine Learning that Global AI Hub provides. There are 3 homeworks which are educative and quite related to what we have learned from the course and a final project which is more comprehensive than homeworks. 
 ### Certification
 ![](img/TopLearnerCertificate.png)
 
