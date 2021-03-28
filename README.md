@@ -4,7 +4,7 @@
 **Course Date:** 22.03.2021-26.03.2021  
 **Name:** Mehmet Emin  
 **Surname:** Aydın  
-**Email:** meaydin.ceng@gmail.com  
+**Email:** mehmetemin200064@gmail.com  
   
 
 ### Certification
